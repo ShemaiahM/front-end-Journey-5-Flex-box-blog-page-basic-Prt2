@@ -1,5 +1,5 @@
 # front-end-Journey-5-Flex-box-blog-page-basic-Prt2
-So ones has improved the use of flex:1; and understood it a better better and overall CSS. Still need practice 
+So ones has improved the use of flex:1; and understood it a better and overall CSS usage. Still need practice 
 
 ### The frontier of `flex:1;`
 
@@ -13,6 +13,8 @@ So ones has improved the use of flex:1; and understood it a better better and ov
 - I used t his to make the footer stick to the bottom of the page, depending on zoom/screen size.
 - I am enjoying this, getting back to basics.
 
+### CSS slectors and properties and values
+- 
 
 
 ####Conclusions 
