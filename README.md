@@ -3,7 +3,7 @@ So ones has improved the use of flex:1; and understood it a better better and ov
 
 ### The frontier of `flex:1;`
 
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/91b9639a-7bfb-44d4-b5f5-27af14bce8cf" />
+<img width="800" height="1000" alt="image" src="https://github.com/user-attachments/assets/91b9639a-7bfb-44d4-b5f5-27af14bce8cf" />
 
 
 ### I have understood it better
